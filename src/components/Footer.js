@@ -34,7 +34,6 @@ function Footer() {
         boxSizing: 'border-box',
         border: '2px solid',
         borderColor: theme.sectiontitle,
-        // transition: 'background-color 0.2s, color 0.2s',
         fontSize: '1.8rem',
         fontWeight: 500,
       }

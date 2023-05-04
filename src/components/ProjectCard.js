@@ -1,14 +1,9 @@
 import React, { useContext } from 'react';
 import { Card , Box} from '@mui/material';
-import styled from '@emotion/styled';
 import {MdComputer, MdCode} from 'react-icons/md';
 
 import { ThemeContext } from '../contexts/ThemeContext';
 import './Projects.css'
-
-// import expImgWhite from '../../assets/svg/experience/expImgWhite.svg'
-// import expImgBlack from '../../assets/svg/experience/expImgBlack.svg'
-
 
 function ProjectCard({id, demolink, sourcelink, title, description, technologies}) {
 

@@ -9,14 +9,12 @@ import Footer from './components/Footer';
 function App() {
   return (
     <>
- 
     <Navbar />
     <Landing />
     <Skills />
     <Projects />
     <Education />
     <Footer />
-  
     </>
   );
 }

@@ -1,4 +1,4 @@
-import resume from './resume.pdf'
+import resume from './Prince_Trivedi_Resume.pdf'
 import profilephoto from './profilephoto.png'
 
 export const header = {

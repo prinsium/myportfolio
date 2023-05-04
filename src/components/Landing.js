@@ -31,11 +31,6 @@ function Landing() {
             background: theme.primary,
             color: theme.secondary,
         },
-                  // [t.breakpoints.down('sm')]: {
-                  //     width: '100%',
-                  //     padding: '0 25px',
-                  //     height: '55px',
-                  // },
       }
       
       const  drawerLinksStyle= {
@@ -47,19 +42,12 @@ function Landing() {
         justifyContent: 'space-between',
         fontSize: '1.3rem',
         fontWeight: 500,
-        // [t.breakpoints.down('sm')]: {
-        //     fontSize: '1.125rem',
-        // },
       }  
              
       const drawerIconStyle= {
         color: theme.sectiontitle,
         fontSize: '1.8rem',
         fontWeight: 500,
-        // paddingRight: '1rem',
-        // [t.breakpoints.down('sm')]: {
-        //     fontSize: '1.385rem',
-        // },
       }
 
     return (
