@@ -9,6 +9,14 @@ export const projects = [
     },
     {
         id: 2,
+        demolink: 'https://superprompts.netlify.app',
+        sourcelink: 'https://github.com/3vdi/superprompts',
+        title: 'Library of the best AI prompts - superprompts',
+        description: 'Library of best AI prompts for midjourney, chatGPT, DALL-E, etc, where users can create, copy, update, delete and search prompts.',
+        technologies: 'NextJs, MongoDB, ExpressJs'
+    },
+    {
+        id: 3,
         demolink: 'https://cloudlogs.netlify.app',
         sourcelink: 'https://github.com/3vdi/cloud-logs-frontend',
         title: 'Online Notes Web App - Cloud-Logs',
@@ -16,7 +24,7 @@ export const projects = [
         technologies: 'ReactJs, MongoDB, ExpressJs, NodeJs, Material UI'
     },
     {
-        id: 3,
+        id: 4,
         demolink: 'https://github.com/3vdi/flipnews',
         sourcelink: 'https://github.com/3vdi/flipnews',
         title: 'News Web App - Flipnews',
@@ -24,7 +32,7 @@ export const projects = [
         technologies: 'ReactJs, React-router, Bootstrap'
     },
     {
-        id: 4,
+        id: 5,
         demolink: 'https://wordutility.netlify.app',
         sourcelink: 'https://github.com/3vdi/Word-Utility',
         title: 'Word-Utility',

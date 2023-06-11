@@ -63,12 +63,6 @@ function Footer() {
                 </a>
              )}
              </div>
-             <Divider />
-             <div className="footer">
-            <p style={{color: theme.tertiary}}>
-                Made by {header.name}
-            </p>
-            </div>
         </div>
     )
 }
