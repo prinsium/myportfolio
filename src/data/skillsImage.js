@@ -13,7 +13,6 @@ import expressjs from '../assets/svg/expressjs.svg'
 import nodejs from '../assets/svg/nodejs.svg'
 import nextJS from '../assets/svg/nextJS.svg'
 
-
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
     switch (skillID) {
